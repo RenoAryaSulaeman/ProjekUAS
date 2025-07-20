@@ -1,5 +1,8 @@
+Pertemuan 8-13 : https://github.com/RenoAryaSulaeman/Pertemuan-8-13.git
 
+Link YouTube : https://youtu.be/c4_RBN8hCKE
 
+ProjekUAS_ResepMakanan_Kel7: https://drive.google.com/file/d/1Y41xSxbpYsE8okPp8ml5widFSVW_0aHA/view?usp=drivesdk (Tidak semua file diunggah ke GitHub karena ukuran file yang terlalu besar)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
